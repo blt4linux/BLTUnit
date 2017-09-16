@@ -1,0 +1,13 @@
+{
+	"name" : "BLTUnit",
+	"description" : "Unit testing for BLT",
+	"author" : "ZNixian",
+	"version" : "0.0.1",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "main.lua"
+		}
+	]
+}
+
